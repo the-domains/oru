@@ -4,7 +4,7 @@
         <description><![CDATA[Oru Kabir]]></description>
         <link>https://thegrid.ai/oru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 17:27:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oru/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/oru/5054901d-ffb2-4e7d-992b-d7f481b7cfd4/index.html</link>
             <guid isPermaLink="false">5054901d-ffb2-4e7d-992b-d7f481b7cfd4</guid>
             <pubDate>Mon, 14 Mar 2016 17:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>1</p>]]></description>
-            <link>https://thegrid.ai/oru/08e702f3-d7c3-4b8a-ba47-1715ac85cbca/index.html</link>
-            <guid isPermaLink="false">08e702f3-d7c3-4b8a-ba47-1715ac85cbca</guid>
-            <pubDate>Mon, 14 Mar 2016 16:55:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
