@@ -1,0 +1,28 @@
+name: Oru
+favicon: null
+layout_spectrum: 0.1568351872265339
+typography_spectrum: 0.789412725251168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8925639481749386
+  lightness: 0.1256549076642841
+  saturation: 0.5504391556605697
+  rhythmicContrast: 0.29283480904996395
+purpose: []
