@@ -1,4 +1,4 @@
-name: Oru
+name: Oru Kabir
 favicon: null
 layout_spectrum: 0.1568351872265339
 typography_spectrum: 0.789412725251168
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8925639481749386
-  lightness: 0.1256549076642841
-  saturation: 0.5504391556605697
-  rhythmicContrast: 0.29283480904996395
+    - '#ffffff'
+    - '#d1d746'
+    - '#3f9ec9'
+    - '#d92c75'
+    - '#1c1b19'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
